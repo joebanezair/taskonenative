@@ -1,0 +1,149 @@
+{
+    
+    "PreviewButtonLabel":{
+        "ButtonNavigate":"Preview Blinds Structure",
+        "BackNavigate":"Back to Tables"
+    },
+
+    "PreviewHeader":{
+        "lLevel":"Level",
+        "tTime":"Time",
+        "bBlinds":"Blinds"
+    },
+
+    "PreviewFooter":{
+        "lLevel":"...",
+        "tTime":"+3:00",
+        "bBlinds":"*2"
+    },
+    
+    "gameTime":{
+        "mm":"",
+        "ss":""
+    },
+    "raiseBlindTime":{
+        "mm":"",
+        "ss":""
+    },
+    "gameTakenOptional":{
+        "mm":"",
+        "ss":""
+    },
+    "buttons":{
+        "btnStart":"Start Game",
+        "btnStarting":"Stop Game",
+        "goback":"Preview Blind Structure"
+    },
+    "page":{
+        "pageTxt": "Blind Structure",
+        "gameTme": "Game Time: ",
+        "low_txt": "Raises the blinds when game ends"
+    },
+
+    "gameTimeGame": [
+        {
+            "lLevel": 1,
+            "tTime": "03:00",
+            "bBlinds": 1
+        },
+        {
+            "lLevel": 2,
+            "tTime": "06:00",
+            "bBlinds": 2
+        },
+        {
+            "lLevel": 3,
+            "tTime": "09:00",
+            "bBlinds": 4
+        },
+        {
+            "lLevel": 4,
+            "tTime": "12:00",
+            "bBlinds": 8
+        },
+        {
+            "lLevel": 5,
+            "tTime": "15:00",
+            "bBlinds": 16
+        },
+        {
+            "lLevel": 6,
+            "tTime": "18:00",
+            "bBlinds": 32
+        },
+        {
+            "lLevel": 7,
+            "tTime": "21:00",
+            "bBlinds": 64
+        },
+        {
+            "lLevel": 8,
+            "tTime": "24:00",
+            "bBlinds": 128
+        },
+        {
+            "lLevel": 9,
+            "tTime": "27:00",
+            "bBlinds": 256
+        },
+        {
+            "lLevel": 10,
+            "tTime": "30:00",
+            "bBlinds": 512
+        }
+    ],
+
+    "raisenBlindTime": [
+        {
+            "lLevel": 1,
+            "tTime": "03:00",
+            "bBlinds": 1
+        },
+        {
+            "lLevel": 2,
+            "tTime": "06:00",
+            "bBlinds": 2
+        },
+        {
+            "lLevel": 3,
+            "tTime": "09:00",
+            "bBlinds": 4
+        },
+        {
+            "lLevel": 4,
+            "tTime": "12:00",
+            "bBlinds": 8
+        },
+        {
+            "lLevel": 5,
+            "tTime": "15:00",
+            "bBlinds": 16
+        },
+        {
+            "lLevel": 6,
+            "tTime": "18:00",
+            "bBlinds": 32
+        },
+        {
+            "lLevel": 7,
+            "tTime": "21:00",
+            "bBlinds": 64
+        },
+        {
+            "lLevel": 8,
+            "tTime": "24:00",
+            "bBlinds": 128
+        },
+        {
+            "lLevel": 9,
+            "tTime": "27:00",
+            "bBlinds": 256
+        },
+        {
+            "lLevel": 10,
+            "tTime": "30:00",
+            "bBlinds": 512
+        }
+    ]
+ 
+}

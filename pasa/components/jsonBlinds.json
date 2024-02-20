@@ -1,0 +1,15 @@
+{
+    "raisenBlindz": [
+      {"bBlinds": 1},
+      {"bBlinds": 2},
+      {"bBlinds": 4},
+      {"bBlinds": 8},
+      {"bBlinds": 16},
+      {"bBlinds": 32},
+      {"bBlinds": 64},
+      {"bBlinds": 128},
+      {"bBlinds": 256},
+      {"bBlinds": 512}
+    ]
+}
+  
